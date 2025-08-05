@@ -4,7 +4,8 @@
 
 Welcome to my GitHub profile! I'm Lennard, a software developer and computer science student from Germany.</br>
 
-I love working on open-source projects and contributing to the community. I'm particularly interested in home automation, game development and reverse-engineering.</br>
+I love working on open-source projects and contributing to the community.</br>
+I'm particularly interested in home automation, game development and reverse-engineering.</br>
 
 My projects often involve [Home Assistant](https://github.com/home-assistant/core) custom integrations, the [Unity engine](https://unity.com).</br>
 My favorite and most fluent programming languages are Python and C#.</br>
