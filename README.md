@@ -43,6 +43,7 @@ I hope that you will find something that is useful or interesting to you here.
 |---------|-------------|-------|
 | [europa1400-community](https://github.com/europa1400-community) | GitHub organization hosting various projects related to the game Europa 1400: The Guild. | ![GitHub Org's stars](https://img.shields.io/github/stars/europa1400-community) |
 | [Blobby Volley World](https://github.com/EuleMitKeule/blobby-volley-world) | Competitive multiplayer volleyball game made with the Unity Engine. | ![GitHub stars](https://img.shields.io/github/stars/EuleMitKeule/blobby-volley-world) |
+| [WYRM](https://github.com/EuleMitKeule/wyrm) | 2D platformer action game featuring a dwarf and a wyrm made with the Unity Engine for the Beginners Circle Jam #3 (2020) | ![GitHub stars](https://img.shields.io/github/stars/EuleMitKeule/wyrm) |
 | [Misadventure](https://github.com/EuleMitKeule/misadventure) | 2D survival shooter set in a fantastic forest made with the Unity Engine. | ![GitHub stars](https://img.shields.io/github/stars/EuleMitKeule/misadventure) |
 | [Tanks on a Plain](https://github.com/EuleMitKeule/github-gameoff-2022) | Fast paced tank battle game made with the Unity Engine for the GitHub GameOff 2022. | ![GitHub stars](https://img.shields.io/github/stars/EuleMitKeule/github-gameoff-2022) |
 | [streetview-bingo](https://github.com/EuleMitKeule/streetview-bingo) | Web application assisting with playing games of Streetview Bingo. | ![GitHub stars](https://img.shields.io/github/stars/EuleMitKeule/streetview-bingo) |
